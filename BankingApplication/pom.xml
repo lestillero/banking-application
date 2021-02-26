@@ -5,6 +5,7 @@
 	<groupId>dev.estillero</groupId>
 	<artifactId>BankingApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 
 	<dependencies>
 		<dependency>
