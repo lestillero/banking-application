@@ -13,4 +13,9 @@
 			<version>19.3.0.0</version>
 		</dependency>
 	</dependencies>
+	
+	<build>
+		<finalName>${project.artifactId}</finalName>
+	</build>
+	
 </project>
