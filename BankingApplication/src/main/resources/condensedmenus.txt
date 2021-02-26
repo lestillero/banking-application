@@ -1,0 +1,29 @@
+public static void signInPrompt() {
+		System.out.println("Please choose a Sign-In option below:");
+		System.out.println("1.  Log in with username");
+		System.out.println("2.  Register new user");
+}
+
+public static void userPrompt() {
+		System.out.println("Please choose a User option below:");
+		System.out.println("1.  View my accounts");
+		System.out.println("2.  Make deposit or withdrawal");
+		System.out.println("3.  Open new account");
+		System.out.println("4.  Delete account");
+		System.out.println("5.  Log out");
+}
+
+public static void superUserPrompt() {
+		System.out.println("Please choose a SuperUser option below:");
+		System.out.println("1.  View all users");
+		System.out.println("2.  View all accounts");
+		System.out.println("3.  Create new user");
+		System.out.println("4.  Delete user");
+		System.out.println("5.  Log out");
+}
+
+public static void managerPrompt() {
+		System.out.println("Please choose a Manager option below:");
+		System.out.println("1.  Manage my accounts");
+		System.out.println("2.  Manage bank accounts");
+}
